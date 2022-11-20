@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+
 int prime1(int a)
 {
     int c = 0;
